@@ -7,7 +7,7 @@ Usage: ShinoLockerStub \<E|D\> \<KEY\> \<IV\> \<FILEPATH\>
 <IV>                 AES IV  (Base64)
 <FILEPATH>           File to encrypt/decrypt
 
-All parameters are mandantory and the order is stricted.
+All parameters are mandatory and the order is stricted.
 
 Example:
 ShinoLockerStub E VEFLRVNISVRFU0hJR0FXQQ== UkFUQUtFU0hJVEVTSElHQQ== C:\file.txt
