@@ -1,5 +1,7 @@
 #ShinoLockerStub
 
+ShinoLockerStub is a command line based tool to encrypt/decrypt a file with the specified AES key and IV.
+
     +-------------------------------------------------------------+
     |   _____ _     _             _                _              |
     |  / ____| |   (_)           | |              | |             |
